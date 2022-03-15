@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 School
+=======
+#!/bin/bash
+echo "School"
+>>>>>>> e8f55b0605d733d5e360921d741026fef21eeb81
